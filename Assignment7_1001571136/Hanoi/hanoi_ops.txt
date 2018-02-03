@@ -1,0 +1,1 @@
+(operator move(params  (<disk> Object) (<from> Object) (<to> Object))(preconds  (smaller <disk> <to>) (on <d> <from>) (clear <d>) (clear <to>))(effects  (del on <disk> <from>) (clear <from>) (on <disk> <to>) (del clear <to>)))
