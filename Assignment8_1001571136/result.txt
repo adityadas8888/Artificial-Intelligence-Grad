@@ -1,0 +1,89 @@
+Observation String :	CLCCCLCCL
+P(h1 | Q) =	0.1
+P(h2 | Q) =	0.2
+P(h3 | Q) =	0.4
+P(h4 | Q) =	0.2
+P(h5 | Q) =	0.1
+Probability that the next candy we pick will be Cherry, given Q: 0.5
+Probability that the next candy we pick will be Lime, given Q: 0.5
+
+Observation Number:0
+P(h1 | Q) =	0.2
+P(h2 | Q) =	0.3
+P(h3 | Q) =	0.4
+P(h4 | Q) =	0.1
+P(h5 | Q) =	0.0
+Probability that the next candy we pick will be Cherry, given Q:0.65
+Probability that the next candy we pick will be Lime, given Q:0.35
+
+Observation Number:1
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.21429
+P(h3 | Q) =	0.57143
+P(h4 | Q) =	0.21429
+P(h5 | Q) =	0.0
+Probability that the next candy we pick will be Cherry, given Q:0.5
+Probability that the next candy we pick will be Lime, given Q:0.5
+
+Observation Number:2
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.32143
+P(h3 | Q) =	0.57143
+P(h4 | Q) =	0.10714
+P(h5 | Q) =	0.0
+Probability that the next candy we pick will be Cherry, given Q:0.55357
+Probability that the next candy we pick will be Lime, given Q:0.44643
+
+Observation Number:3
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.43548
+P(h3 | Q) =	0.51613
+P(h4 | Q) =	0.04839
+P(h5 | Q) =	0.0
+Probability that the next candy we pick will be Cherry, given Q:0.59677
+Probability that the next candy we pick will be Lime, given Q:0.40323
+
+Observation Number:4
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.5473
+P(h3 | Q) =	0.43243
+P(h4 | Q) =	0.02027
+P(h5 | Q) =	0.0
+Probability that the next candy we pick will be Cherry, given Q:0.63176
+Probability that the next candy we pick will be Lime, given Q:0.36824
+
+Observation Number:5
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.37156
+P(h3 | Q) =	0.58716
+P(h4 | Q) =	0.04128
+P(h5 | Q) =	0.0
+Probability that the next candy we pick will be Cherry, given Q:0.58257
+Probability that the next candy we pick will be Lime, given Q:0.41743
+
+Observation Number:6
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.47835
+P(h3 | Q) =	0.50394
+P(h4 | Q) =	0.01772
+P(h5 | Q) =	0.0
+Probability that the next candy we pick will be Cherry, given Q:0.61516
+Probability that the next candy we pick will be Lime, given Q:0.38484
+
+Observation Number:7
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.5832
+P(h3 | Q) =	0.4096
+P(h4 | Q) =	0.0072
+P(h5 | Q) =	0.0
+Probability that the next candy we pick will be Cherry, given Q:0.644
+Probability that the next candy we pick will be Lime, given Q:0.356
+
+Observation Number:8
+P(h1 | Q) =	0.0
+P(h2 | Q) =	0.40955
+P(h3 | Q) =	0.57528
+P(h4 | Q) =	0.01517
+P(h5 | Q) =	0.0
+Probability that the next candy we pick will be Cherry, given Q:0.5986
+Probability that the next candy we pick will be Lime, given Q:0.4014
