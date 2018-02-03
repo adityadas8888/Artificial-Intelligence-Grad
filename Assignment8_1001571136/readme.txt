@@ -1,8 +1,6 @@
 
-Name of student: Harsh Saini
-
-UTA ID: 1001571136
-
+Assignment Link:
+http://omega.uta.edu/~gopikrishnav/classes/2017/fall/4308_5360/assmts/assmt8.html
 Programming Language Used: JAVA
 
 Usage Instructions :
